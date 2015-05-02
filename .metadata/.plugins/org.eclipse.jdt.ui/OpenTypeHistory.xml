@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=comecando-primefaces/src\/main\/java&lt;com.algaworks.erp.controler{GestaoEmpresasBean.java[GestaoEmpresasBean" modifiers="1" timestamp="1429755255971"/>
+<typeInfo handle="=comecando-primefaces/src\/main\/java&lt;com.algaworks.erp.service{CadastroEmpresaService.java[CadastroEmpresaService" modifiers="1" timestamp="1414878542000"/>
+<typeInfo handle="=comecando-primefaces/src\/main\/java&lt;com.algaworks.erp.repository{Empresas.java[Empresas" modifiers="1" timestamp="1426124876545"/>
+</typeInfoHistroy>
